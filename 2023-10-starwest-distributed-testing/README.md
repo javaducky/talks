@@ -7,8 +7,9 @@ Traditional centralized load testing needs to catch up in replicating real-world
 Join us to discover the power of distributed load testing as we explore its ability to identify performance variations and validate disaster recovery strategies. You'll see why you should embrace this approach to unleash the full potential of your applications, achieve robust performance, and meet the demands of today's dynamic digital landscape.
 
 ## Resources
+- [Conference Link](https://starwest.techwell.com/program/concurrent-sessions/distributed-load-testing-kubernetes-starwest-2023)
 - [Presentation Slides](distributed-load-testing.pdf)
-- [Demostration Project](https://github.com/javaducky/demo-k6-operator)
+- [Demonstration Project](https://github.com/javaducky/demo-k6-operator)
 
 ## Related Links
 - [k6-operator source code](https://github.com/grafana/k6-operator)
