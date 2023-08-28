@@ -8,7 +8,7 @@ Join us to discover the power of distributed load testing as we explore its abil
 
 ## Resources
 - [Conference Link](https://starwest.techwell.com/program/concurrent-sessions/distributed-load-testing-kubernetes-starwest-2023)
-- [Presentation Slides](distributed-load-testing.pdf)
+- [Presentation Slides](T23-Balogh-DistributedLoadTestingInKubernetes.pdf)
 - [Demonstration Project](https://github.com/javaducky/demo-k6-operator)
 
 ## Related Links
